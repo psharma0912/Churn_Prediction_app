@@ -2,11 +2,10 @@ joblib
 pandas
 altair<5
 scikit-learn
-Flask
 numpy
 pandas
 seaborn
 matplotlib
-streamlit = 1.19.0
+streamlit 
 libgl1
 hydralit
