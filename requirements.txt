@@ -1,6 +1,12 @@
-joblib==1.1.0
-pandas==1.3.5
-streamlit==1.12.2
+joblib
+pandas
 altair<5
 scikit-learn
-matplotlib==3.5.1
+Flask
+numpy
+pandas
+seaborn
+matplotlib
+streamlit = 1.19.0
+libgl1
+hydralit
