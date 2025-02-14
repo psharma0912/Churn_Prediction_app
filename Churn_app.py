@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 import joblib
+import warnings;
+warnings.filterwarnings('ignore')
 
 # Load the trained model and scaler
 model = joblib.load('churn_prediction.joblib')
